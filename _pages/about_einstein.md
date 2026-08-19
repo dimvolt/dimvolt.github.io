@@ -1,4 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Computational biologist specialising in machine learning and dynamical modelling for biology. Experienced in building frameworks that integrate generative machine learning and mathematical modelling to learn generalisable, mechanistic principles from complex, noisy biological data, including single-cell multi-omics and perturbation data.
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
