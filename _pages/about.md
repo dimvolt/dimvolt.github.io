@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="#">Computational Biologist</a> & <a href="#">Machine Learning Researcher</a>. Bridging generative ML, stochastic modeling and dynamical systems.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>London, UK</p>
+    <p><a href="/assets/pdf/example_pdf.pdf" target="_blank" class="btn btn-sm z-depth-0">Download CV (PDF)</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +26,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Computational biologist specialising in machine learning and dynamical modelling for biology. Experienced in building frameworks that integrate generative machine learning and mathematical modelling to learn generalisable, mechanistic principles from complex, noisy biological data, including single-cell multi-omics and perturbation data.
+Computational biologist and applied mathematician working at the intersection of **machine learning, mathematical modelling, and biology**. Experienced in building computational modelling frameworks to learn generalisable, mechanistic principles from complex, noisy biological data, including single-cell multi-omics and perturbation data.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### Core Focus Areas
+* **Generative & Dynamic ML:** Designing latent-variable architectures (VAEs, Latent ODEs, Neural SDEs, Flow Matching) to capture stochastic biological processes.
+* **Single-Cell Kinetics:** Developing algorithmic pipelines for high-throughput time-resolved transcriptomics and multi-scale cellular trajectory inference.
+* **Interdisciplinary Collaboration:** Translating complex mathematical and statistical models into actionable insights alongside experimental wet-lab teams.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Technical Toolkit
+* **Languages & Frameworks:** Python (PyTorch, scanpy, scikit-learn), Julia (Flux), R
+* **Modelling & Inference:** Dynamical Systems, Stochastic Differential Equations, Causal Inference, Bayesian modelling
+* **Infrastructure:** Slurm Workload Manager, Linux/HPC environments, CUDA GPU acceleration, Git/Docker
+
+---
