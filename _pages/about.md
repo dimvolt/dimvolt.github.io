@@ -36,6 +36,6 @@ Computational biologist and applied mathematician working at the intersection of
 ### Technical Toolkit
 * **Languages & Frameworks:** Python (PyTorch, scanpy, scikit-learn), Julia (Flux), R
 * **Modelling & Inference:** Dynamical Systems, Stochastic Differential Equations, Causal Inference, Bayesian modelling
-* **Infrastructure:** Slurm Workload Manager, Linux/HPC environments, CUDA GPU acceleration, Git/Docker
+* **Infrastructure:** Linux/HPC environments, CUDA GPU acceleration, Git
 
 ---
