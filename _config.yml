@@ -64,7 +64,6 @@ al_folio:
   style_engine: tailwind
   tailwind:
     version: 4.1.18
-    preflight: false
     css_entry: assets/tailwind/app.css
   distill:
     engine: distillpub-template
