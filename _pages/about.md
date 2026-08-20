@@ -13,7 +13,7 @@ profile:
     <p><a href="/assets/pdf/example_pdf.pdf" target="_blank" class="btn btn-sm z-depth-0">Download CV (PDF)</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
