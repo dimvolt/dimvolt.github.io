@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="#">Computational Biologist</a> & <a href="#">Machine Learning Researcher</a>. Bridging generative ML, stochastic modeling and dynamical systems.
+<!-- subtitle: <a href="#">Computational Biologist</a> &. Bridging generative ML, stochastic modelling and dynamical systems.
+-->
 
 profile:
   align: right
