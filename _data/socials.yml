@@ -6,5 +6,5 @@ email: volterasd@gmail.com # your email address
 github_user: dimvolt
 linkedin_username: dvolteras
 inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: true # set to false or comment out to hide RSS icon
-#scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+rss_icon: false # set to false or comment out to hide RSS icon
+scholar_userid: 8a1N-RUAAAAJ # your Google Scholar ID
