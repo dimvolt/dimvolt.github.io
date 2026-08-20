@@ -1,9 +1,0 @@
-body, 
-h1, h2, h3, h4, h5, h6, 
-p, a, span, .navbar, .nav-link, .card-title {
-  font-family: 'Inter', system-ui, -apple-system, sans-serif !important;
-}
-
-code, pre, .highlight, kbd {
-  font-family: 'JetBrains Mono', monospace !important;
-}
