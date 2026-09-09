@@ -25,4 +25,4 @@ The work develops a stochastic gene-expression model with cell size- and cell cy
 
 The analysis quantifies burst frequency, burst size, and mRNA degradation rate across the cell cycle at transcriptome-wide scale. It identifies evidence for transcription rates that scale with cell size and reveals waves of transcriptional regulation across the cell cycle-dependent transcriptome.
 
-This project is described in the open-access paper [*Global transcription regulation revealed from dynamical correlations in time-resolved single-cell RNA sequencing*](https://doi.org/10.1016/j.cels.2024.07.002), published in *Cell Systems* (2024).
+This project is described in the open-access paper [_Global transcription regulation revealed from dynamical correlations in time-resolved single-cell RNA sequencing_](https://doi.org/10.1016/j.cels.2024.07.002), published in _Cell Systems_ (2024).

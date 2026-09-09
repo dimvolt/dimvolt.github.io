@@ -48,10 +48,10 @@ Inferring genome-wide transcriptional dynamics from time-resolved single-cell RN
 ### Selected Publications
 
 **Global transcription regulation revealed from dynamical correlations in time-resolved single-cell RNA sequencing**<br>
-D. Volteras, V. Shahrezaei, P. Thomas. *Cell Systems* (2024). [Read the paper →](https://doi.org/10.1016/j.cels.2024.07.002)
+D. Volteras, V. Shahrezaei, P. Thomas. _Cell Systems_ (2024). [Read the paper →](https://doi.org/10.1016/j.cels.2024.07.002)
 
 **Axonal injury is a targetable driver of glioblastoma progression**<br>
-M. Clements, W. Tang, Z. F. Baronik, H. S. Ragdale, R. Oria, D. Volteras, I. J. White, et al. *Nature* (2025). [Read the paper →](https://doi.org/10.1038/s41586-025-09411-2)
+M. Clements, W. Tang, Z. F. Baronik, H. S. Ragdale, R. Oria, D. Volteras, I. J. White, et al. _Nature_ (2025). [Read the paper →](https://doi.org/10.1038/s41586-025-09411-2)
 
 [View all publications →]({{ '/publications/' | relative_url }})
 
