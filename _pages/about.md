@@ -1,42 +1,60 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-<!-- subtitle: <a href="#">Computational Biologist</a> &. Bridging generative ML, stochastic modelling and dynamical systems.
--->
-
+nav: true
+nav_order: 3
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p>London, UK</p>
     <p><a href="/assets/pdf/example_pdf.pdf" target="_blank" class="btn btn-sm z-depth-0">Download CV (PDF)</a></p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
-
+selected_papers: false
+social: false
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
+  enabled: false
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Computational biologist and applied mathematician working at the intersection of **machine learning, mathematical modelling, and biology**. Experienced in building computational modelling frameworks to learn generalisable, mechanistic principles from complex, noisy biological data, including single-cell multi-omics and perturbation data.
+## Computational Biologist & Machine Learning Scientist
 
-### Core Focus Areas
-* **Generative & Dynamic ML:** Designing latent-variable architectures (VAEs, Latent ODEs, Neural SDEs, Flow Matching) to capture stochastic biological processes.
-* **Single-Cell Kinetics:** Developing algorithmic pipelines for high-throughput time-resolved transcriptomics and multi-scale cellular trajectory inference.
-* **Interdisciplinary Collaboration:** Translating complex mathematical and statistical models into actionable insights alongside experimental wet-lab teams.
+I develop machine learning and mathematical methods to understand how gene regulatory networks shape cellular states, dynamics, and responses to perturbation.
 
-### Technical Toolkit
-* **Languages & Frameworks:** Python (PyTorch, scanpy, scikit-learn), Julia (Flux), R
-* **Modelling & Inference:** Dynamical Systems, Stochastic Differential Equations, Causal Inference, Bayesian modelling
-* **Infrastructure:** Linux/HPC environments, CUDA GPU acceleration, Git
+My research lies at the intersection of machine learning and computational biology, spanning generative modelling and representation learning, single-cell biology, dynamical modelling, and probabilistic inference.
 
----
+### Research Themes
+
+**Generative Modelling & Representation Learning**
+Learning representations and predictive models of high-dimensional biological systems.
+
+**Cellular Dynamics & Perturbations**
+Understanding how cellular states evolve and respond to genetic and environmental interventions.
+
+**Stochastic & Probabilistic Modelling**
+Using mathematical models and probabilistic inference to extract regulatory information from noisy biological measurements.
+
+**Biology-Informed Machine Learning**
+Building ML architectures that exploit biological knowledge, experimental constraints and inductive biases.
+
+### Selected Research
+
+#### [Learning Gene Regulation from Cellular Variability]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
+
+Inferring genome-wide transcriptional dynamics from time-resolved single-cell RNA sequencing with stochastic modelling and scalable Bayesian inference. [Read more →]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
+
+### Selected Publications
+
+**Global transcription regulation revealed from dynamical correlations in time-resolved single-cell RNA sequencing**<br>
+D. Volteras, V. Shahrezaei, P. Thomas. *Cell Systems* (2024). [Read the paper →](https://doi.org/10.1016/j.cels.2024.07.002)
+
+**Axonal injury is a targetable driver of glioblastoma progression**<br>
+M. Clements, W. Tang, Z. F. Baronik, H. S. Ragdale, R. Oria, D. Volteras, I. J. White, et al. *Nature* (2025). [Read the paper →](https://doi.org/10.1038/s41586-025-09411-2)
+
+[View all publications →]({{ '/publications/' | relative_url }})
+
+### About
+
+My research trajectory moves from applied mathematics and stochastic systems to gene regulation, single-cell biology, and machine learning. Across these areas, I develop interpretable models that use cellular variation and high-dimensional data to reveal mechanisms shaping biological dynamics.

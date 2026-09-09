@@ -1,81 +1,28 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Learning Gene Regulation from Cellular Variability
+description: Inferring genome-wide transcriptional dynamics from time-resolved single-cell RNA sequencing.
+permalink: /research/gene-regulation-from-cellular-variability/
 importance: 1
-category: work
-related_publications: true
+featured: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Single-cell transcriptomics records substantial cell-to-cell variability, but a single measurement provides only a partial view of the dynamic processes that generated it. This project uses time-resolved single-cell RNA sequencing to ask what that variability can reveal about transcriptional regulation.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## The question
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Can temporal correlations in single-cell measurements identify the mechanisms that control transcription dynamics? More specifically, can they distinguish how transcriptional bursting and mRNA degradation change across the cell cycle at transcriptome-wide scale?
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## The challenge
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Observed RNA counts combine biological stochasticity with technical variation. They are also shaped by changing cell size and cell-cycle state. These sources of variation make it difficult to infer kinetic mechanisms from static snapshots alone, and a useful approach must account for them without losing the scale needed for genome-wide analysis.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## The approach
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+The work develops a stochastic gene-expression model with cell size- and cell cycle-dependent rates in growing and dividing cells. It uses the temporal information supplied by metabolic-labeling protocols and cell-cycle reporters, alongside a parallel, scalable approximate Bayesian computation method that corrects for technical variation. Bayesian model selection is then used to compare candidate mechanisms of regulation.
 
-{% raw %}
+## What we found
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+The analysis quantifies burst frequency, burst size, and mRNA degradation rate across the cell cycle at transcriptome-wide scale. It identifies evidence for transcription rates that scale with cell size and reveals waves of transcriptional regulation across the cell cycle-dependent transcriptome.
 
-{% endraw %}
+This project is described in the open-access paper [*Global transcription regulation revealed from dynamical correlations in time-resolved single-cell RNA sequencing*](https://doi.org/10.1016/j.cels.2024.07.002), published in *Cell Systems* (2024).
