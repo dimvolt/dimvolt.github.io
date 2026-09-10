@@ -19,7 +19,7 @@ latest_posts:
   enabled: false
 ---
 
-## Computational Biologist & Machine Learning Scientist
+### Computational Biologist & Machine Learning Scientist
 
 I develop machine learning and mathematical methods to understand how gene regulatory networks shape cellular states, dynamics, and responses to perturbation.
 
