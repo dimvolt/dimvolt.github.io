@@ -19,19 +19,19 @@ latest_posts:
   enabled: false
 ---
 
-### Computational Biologist & Machine Learning Scientist
+#### Computational Biologist & Machine Learning Scientist
 
 I develop machine learning and mathematical methods to understand how gene regulatory networks shape cellular states, dynamics, and responses to perturbation.
 
 My research lies at the intersection of machine learning and computational biology, spanning generative modelling and representation learning, single-cell biology, dynamical modelling, and probabilistic inference.
 
-### Research Themes
+#### Research Themes
 
 **Generative Modelling & Representation Learning**
 Learning representations and predictive models of high-dimensional biological systems.
 
 **Cellular Dynamics & Perturbations**
-Understanding how cellular states evolve and respond to genetic and environmental interventions.
+Understanding how cellular states evolve over time in response to genetic and environmental interventions.
 
 **Stochastic & Probabilistic Modelling**
 Using mathematical models and probabilistic inference to extract regulatory information from noisy biological measurements.
@@ -39,9 +39,9 @@ Using mathematical models and probabilistic inference to extract regulatory info
 **Biology-Informed Machine Learning**
 Building ML architectures that exploit biological knowledge, experimental constraints and inductive biases.
 
-### Selected Research
+#### Selected Research
 
-#### [Learning gene regulation from cellular variability]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
+##### [Learning gene regulation from cellular variability]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
 
 Inferring genome-wide transcriptional dynamics from time-resolved single-cell RNA sequencing with stochastic modelling and scalable Bayesian inference.
 
@@ -49,7 +49,7 @@ Inferring genome-wide transcriptional dynamics from time-resolved single-cell RN
 
 [Read more →]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
 
-#### [Learning latent regulatory dynamics of cell fate decisions]({{ '/research/latent-regulatory-dynamics-of-cell-fate-decisions/' | relative_url }})
+##### [Learning latent regulatory dynamics of cell fate decisions]({{ '/research/latent-regulatory-dynamics-of-cell-fate-decisions/' | relative_url }})
 
 A generative modelling framework for learning how regulatory programs transform signalling inputs into developmental cell-fate outcomes. _Ongoing postdoctoral research._
 
@@ -57,7 +57,7 @@ A generative modelling framework for learning how regulatory programs transform 
 
 [Read more →]({{ '/research/latent-regulatory-dynamics-of-cell-fate-decisions/' | relative_url }})
 
-### Selected Publications
+#### Selected Publications
 
 **Global transcription regulation revealed from dynamical correlations in time-resolved single-cell RNA sequencing**<br>
 D. Volteras, V. Shahrezaei, P. Thomas. _Cell Systems_ (2024). [Read the paper →](https://doi.org/10.1016/j.cels.2024.07.002)
