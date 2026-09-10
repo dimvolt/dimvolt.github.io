@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-nav: true
+nav: false
 nav_order: 3
 profile:
   align: right
