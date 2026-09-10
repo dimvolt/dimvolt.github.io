@@ -10,8 +10,8 @@ description: Curriculum vitae for Dimitris Volteras.
 <p class="lead">Computational Biologist &amp; Machine Learning Scientist</p>
 
 <p>
-  <a class="btn btn-primary" href="{{ '/assets/pdf/Dimitris_Volteras_Computational_Biology_ML_CV.pdf' | relative_url }}" download>
-    Download CV (PDF)
+  <a class="btn btn-primary" href="{{ '/assets/pdf/my_cv.pdf' | relative_url }}" download>
+    Download my_cv.pdf
   </a>
 </p>
 
