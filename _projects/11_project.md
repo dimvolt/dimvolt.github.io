@@ -18,11 +18,11 @@ Early glioblastoma cells preferentially colonise white matter and induce axonal 
 
 ## My contribution
 
-I developed a spatiotemporal, stochastic agent-based model of glioblastoma progression, translating experimental observations into a quantitative mechanistic framework. Individual tumour cells are autonomous agents whose proliferation and migration depend on their local environment and on dynamically accumulating, tumour-induced axonal injury. The model provided a way to test whether these coupled interactions could account for the observed tumour phenotypes in close dialogue with the experimental work.
+I developed a spatiotemporal, stochastic agent-based model of glioblastoma progression, translating experimental observations into a quantitative mechanistic framework. Individual tumour cells are autonomous agents whose proliferation and migration depend on their local environment and on dynamically accumulating, tumour-induced axonal injury. The model provided a way to test whether these coupled interactions could account for the observed tumour phenotypes, validating the experimental evidence.
 
 ## What the model revealed
 
-The simulations supported a mechanistic explanation for the contrasting wild-type and _Sarm1_-deficient phenotypes. Injury-dependent mobility helped retain tumour cells in white matter, promoting denser, more localised growth; disrupting this interaction produced more dispersed growth. Slower or delayed injury accumulation could also account for delayed tumour proliferation. These results supported the paper's experimentally grounded interpretation rather than independently establishing the underlying biological mechanism.
+The simulations supported a mechanistic explanation for the contrasting wild-type and _Sarm1_-deficient phenotypes. Injury-dependent mobility helped retain tumour cells in white matter, promoting denser, more localised growth; disrupting this interaction produced more dispersed growth. Slower or delayed injury accumulation could also account for delayed tumour proliferation. These results supported the experimentally grounded interpretation and the proposed biological mechanisms.
 
 ## Publication
 
