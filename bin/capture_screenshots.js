@@ -97,7 +97,7 @@ const SHOTS = [
     const broken = await page.evaluate(() =>
       Array.from(document.images)
         .filter((img) => img.complete && img.naturalWidth === 0)
-        .map((img) => img.src),
+        .map((img) => img.src)
     );
 
     await page.screenshot({ path: path.join(OUT, `${shot.name}.png`) });
