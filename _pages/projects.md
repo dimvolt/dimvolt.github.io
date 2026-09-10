@@ -10,7 +10,7 @@ horizontal: false
 
 <!-- pages/projects.md -->
 <div class="projects">
-  <h2 class="category">Selected Research</h2>
+  <h2 class="category">Selected projects</h2>
   {% assign selected_projects = site.projects | where: "featured", true | sort: "importance" %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in selected_projects %}
@@ -18,7 +18,7 @@ horizontal: false
     {% endfor %}
   </div>
 
-  <h2 class="category">Current / Exploratory Research</h2>
+  <h2 class="category">Exploratory projects</h2>
   {% assign exploratory_projects = site.projects | where: "research_section", "exploratory" | sort: "importance" %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in exploratory_projects %}
@@ -26,7 +26,7 @@ horizontal: false
     {% endfor %}
   </div>
 
-  <h2 class="category">Interdisciplinary Biological Research</h2>
+  <h2 class="category">Interdisciplinary projects</h2>
   {% assign collaborative_projects = site.projects | where: "research_section", "collaborative" | sort: "importance" %}
   <div class="row row-cols-1 row-cols-md-3">
     {% for project in collaborative_projects %}
