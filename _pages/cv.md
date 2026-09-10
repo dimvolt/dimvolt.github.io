@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-description: false
+description: CV page for Dimitris Volteras.
 ---
 
 <p>
@@ -63,7 +63,7 @@ _Computational Molecular Systems Biology &amp; Single-Cell Dynamics Groups — D
 Thesis: _Data-driven stochastic modelling of gene regulation_; Roth PhD Scholarship, Department of Mathematics.
 
 **MSc in Applied Mathematics** · Imperial College London<br>
-Thesis: _Multiscale approximations of stochastic reaction networks_; focus: mathematical biology, machine learning, stochastic differential equations and Markov processes.
+Thesis: _Multiscale approximations of stochastic reaction networks_; Focus: mathematical biology, machine learning, stochastic differential equations and Markov processes.
 
 **BSc in Mathematics** · National and Kapodistrian University of Athens<br>
 Focus: probability theory, stochastic analysis, Bayesian inference, ODEs and PDEs, and linear algebra.
