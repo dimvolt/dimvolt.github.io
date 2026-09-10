@@ -34,7 +34,7 @@ Learning representations and predictive models of high-dimensional biological sy
 Understanding how cellular states evolve over time in response to genetic and environmental interventions.
 
 **Stochastic & Probabilistic Modelling**
-Using mathematical models and probabilistic inference to extract regulatory information from noisy biological measurements.
+Using stochastic models and probabilistic inference to extract regulatory information from noisy biological measurements.
 
 **Biology-Informed Machine Learning**
 Building ML architectures that exploit biological knowledge, experimental constraints and inductive biases.
