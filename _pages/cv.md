@@ -71,9 +71,9 @@ Focus: probability theory, stochastic analysis, Bayesian inference, ODEs and PDE
 
 ## Selected Publications
 
-- Volteras, D., Thomas, P., &amp; Shahrezaei, V. (2024). [*Global transcription regulation revealed from dynamical correlations in time-resolved single-cell RNA sequencing*](https://doi.org/10.1016/j.cels.2024.07.002). *Cell Systems*.
-- Boezio, G. L. M., Depotter, J. R. L., Frith, T. J. R., Radley, A., Volteras, D., Strohbuecker, S., et al. (2026). *Hierarchical lineage architecture of human and avian spinal cord revealed by single-cell genomic barcoding*. *Nature*. Accepted.
-- Clements, M., Tang, W., Baronik, Z. F., Ragdale, S., Oria, R., Volteras, D., White, I. J., et al. (2025). [*Axonal injury is a targetable driver of glioblastoma progression*](https://doi.org/10.1038/s41586-025-09411-2). *Nature*.
+- Volteras, D., Thomas, P., &amp; Shahrezaei, V. (2024). [Global transcription regulation revealed from dynamical correlations in time-resolved single-cell RNA sequencing](https://doi.org/10.1016/j.cels.2024.07.002). *Cell Systems*.
+- Boezio, G. L. M., Depotter, J. R. L., Frith, T. J. R., Radley, A., Volteras, D., Strohbuecker, S., et al. (2026). Hierarchical lineage architecture of human and avian spinal cord revealed by single-cell genomic barcoding. *Nature*. Accepted.
+- Clements, M., Tang, W., Baronik, Z. F., Ragdale, S., Oria, R., Volteras, D., White, I. J., et al. (2025). [Axonal injury is a targetable driver of glioblastoma progression](https://doi.org/10.1038/s41586-025-09411-2). *Nature*.
 
 ## Selected Manuscript in Preparation
 
