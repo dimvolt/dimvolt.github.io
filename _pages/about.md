@@ -43,7 +43,7 @@ Building ML architectures that exploit biological knowledge, experimental constr
 
 ##### [Learning gene regulation from cellular variability]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
 
-Inferring genome-wide transcriptional dynamics from time-resolved single-cell RNA sequencing with stochastic modelling and scalable Bayesian inference.
+Inferring genome-wide transcriptional dynamics from time-resolved single-cell transcriptomics with stochastic modelling and scalable Bayesian inference.
 
 <span class="research-keyword">single-cell transcriptomics</span> · <span class="research-keyword">Bayesian inference</span> · <span class="research-keyword">stochastic modelling</span> · <span class="research-keyword">gene regulation</span>
 
@@ -51,7 +51,7 @@ Inferring genome-wide transcriptional dynamics from time-resolved single-cell RN
 
 ##### [Learning latent regulatory dynamics of cell fate decisions]({{ '/research/latent-regulatory-dynamics-of-cell-fate-decisions/' | relative_url }})
 
-A generative modelling framework for learning how regulatory programs transform signalling inputs into developmental cell-fate outcomes. _Ongoing postdoctoral research._
+A generative modelling framework for learning how gene regulatory networks transform signalling inputs into developmental cell fate outcomes. _Ongoing postdoctoral research._
 
 <span class="research-keyword">generative ML</span> · <span class="research-keyword">representation learning</span> · <span class="research-keyword">latent dynamical systems</span> · <span class="research-keyword">single-cell transcriptomics</span> · <span class="research-keyword">perturbations</span>
 
