@@ -4,12 +4,12 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-description: 
+description: false
 ---
 
 <p>
   <a class="btn btn-primary" href="{{ '/assets/pdf/my_cv.pdf' | relative_url }}" download>
-    Download my_cv.pdf
+    Download CV
   </a>
 </p>
 
