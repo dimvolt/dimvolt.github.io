@@ -48,7 +48,7 @@ Python (PyTorch, NumPy, SciPy, Scikit-learn, Scanpy, scVI) · Julia · R · Math
 
 *Computational Molecular Systems Biology Group — Dr Vahid Shahrezaei · Sep 2024 – Feb 2025*
 
-- DDeveloped a stochastic agent-based model to investigate the spatiotemporal dynamics of tumour progression. [Related research →]({{ '/research/modelling-spatial-dynamics-of-glioblastoma-progression/' | relative_url }})
+- Developed a stochastic agent-based model to investigate the spatiotemporal dynamics of tumour progression. [Related research →]({{ '/research/modelling-spatial-dynamics-of-glioblastoma-progression/' | relative_url }})
 - Contributed computational modelling and quantitative analysis to an interdisciplinary study identifying axonal injury as a targetable driver of glioblastoma progression (*Nature*, 2025).
 
 ### PhD Researcher in Computational Biology · Imperial College London
