@@ -40,7 +40,7 @@ a,
 .navbar .nav-link,
 .nav-tabs .nav-link,
 .nav-pills .nav-link {
-  color: #b22222 !important;
+  color: #4682b4 !important;
 }
 
 a:hover,
@@ -53,12 +53,12 @@ a:focus,
 .nav-pills .nav-link:hover,
 .nav-pills .nav-link:focus,
 .nav-pills .nav-link.active {
-  color: #8b1a1a !important;
+  color: #36648b !important;
 }
 
 a:focus-visible,
 .nav-link:focus-visible {
-  outline: 2px solid #b22222;
+  outline: 2px solid #4682b4;
   outline-offset: 3px;
 }
 
