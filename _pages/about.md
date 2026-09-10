@@ -21,9 +21,13 @@ latest_posts:
 
 #### Computational Biologist & Machine Learning Scientist
 
-I develop machine learning and mathematical methods to understand how gene regulatory networks shape cellular states, dynamics, and responses to perturbation.
+My research lies at the intersection of machine learning and computational biology, with a particular interest in understanding how gene regulatory networks shape cellular states, dynamics, and responses to perturbation.
 
-My research lies at the intersection of machine learning and computational biology, spanning generative modelling and representation learning, single-cell biology, dynamical modelling, and probabilistic inference.
+I develop computational methods that combine flexible ML architectures with biological structure and dynamics, informed by prior knowledge and experimental design.
+
+During my PhD, I developed stochastic models and Bayesian inference approaches to study how cell-to-cell variability can reveal hidden properties of gene regulation from single-cell transcriptomics. My current research extends these questions and approaches towards generative modelling and representation learning for cellular dynamics, gene regulatory networks, and perturbation responses. 
+
+More broadly, I am interested in developing predictive and interpretable models of cellular systems, and in how machine learning and mathematical modelling can help us understand biological interventions and ultimately contribute to therapeutic discovery.
 
 #### Research Themes
 
@@ -68,7 +72,3 @@ D. Volteras, V. Shahrezaei, P. Thomas. _Cell Systems_ (2024). [Read the paper �
 M. Clements, W. Tang, Z. F. Baronik, H. S. Ragdale, R. Oria, D. Volteras, I. J. White, et al. _Nature_ (2025). [Read the paper →](https://doi.org/10.1038/s41586-025-09411-2)
 
 [View all publications →]({{ '/publications/' | relative_url }})
-
-### About
-
-My research trajectory moves from applied mathematics and stochastic systems to gene regulation, single-cell biology, and machine learning. Across these areas, I develop interpretable models that use cellular variation and high-dimensional data to reveal mechanisms shaping biological dynamics.
