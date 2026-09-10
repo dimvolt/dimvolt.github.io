@@ -1,12 +1,68 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=JetBrains+Mono:wght@400;500&display=swap');
 
 /* Apply font overrides globally */
-body, 
-h1, h2, h3, h4, h5, h6, 
-p, a, span, .navbar, .nav-link, .card-title {
-  font-family: 'Inter', system-ui, -apple-system, sans-serif !important;
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+span,
+.navbar,
+.nav-link,
+.card-title {
+  font-family: 'Lato', system-ui, -apple-system, sans-serif !important;
 }
 
-code, pre, .highlight, kbd {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+b {
+  font-weight: 700;
+}
+
+code,
+pre,
+.highlight,
+kbd {
   font-family: 'JetBrains Mono', monospace !important;
+}
+
+/* Brand colours for navigation and links */
+a,
+.navbar .nav-link,
+.nav-tabs .nav-link,
+.nav-pills .nav-link {
+  color: #b22222 !important;
+}
+
+a:hover,
+a:focus,
+.navbar .nav-link:hover,
+.navbar .nav-link:focus,
+.nav-tabs .nav-link:hover,
+.nav-tabs .nav-link:focus,
+.nav-tabs .nav-link.active,
+.nav-pills .nav-link:hover,
+.nav-pills .nav-link:focus,
+.nav-pills .nav-link.active {
+  color: #8b1a1a !important;
+}
+
+a:focus-visible,
+.nav-link:focus-visible {
+  outline: 2px solid #b22222;
+  outline-offset: 3px;
+}
+
+.research-keyword {
+  color: #b0c4de;
+  font-weight: 700;
 }
