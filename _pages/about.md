@@ -57,7 +57,7 @@ A generative modelling framework for learning how gene regulatory networks trans
 
 [Read more →]({{ '/research/latent-regulatory-dynamics-of-cell-fate-decisions/' | relative_url }})
 
-[Explore more research →]({{ '/research/' | relative_url }})
+[View all research →]({{ '/research/' | relative_url }})
 
 #### Selected Publications
 
