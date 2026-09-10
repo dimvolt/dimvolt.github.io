@@ -41,9 +41,21 @@ Building ML architectures that exploit biological knowledge, experimental constr
 
 ### Selected Research
 
-#### [Learning Gene Regulation from Cellular Variability]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
+#### [Learning gene regulation from cellular variability]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
 
-Inferring genome-wide transcriptional dynamics from time-resolved single-cell RNA sequencing with stochastic modelling and scalable Bayesian inference. [Read more →]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
+Inferring genome-wide transcriptional dynamics from time-resolved single-cell RNA sequencing with stochastic modelling and scalable Bayesian inference.
+
+`single-cell transcriptomics` · `Bayesian inference` · `stochastic modelling` · `gene regulation`
+
+[Read more →]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
+
+#### [Learning latent regulatory dynamics of cell fate decisions]({{ '/research/latent-regulatory-dynamics-of-cell-fate-decisions/' | relative_url }})
+
+A generative modelling framework for learning how regulatory programs transform signalling inputs into developmental cell-fate outcomes. _Ongoing postdoctoral research._
+
+`generative ML` · `representation learning` · `latent dynamical systems` · `single-cell transcriptomics` · `perturbations`
+
+[Read more →]({{ '/research/latent-regulatory-dynamics-of-cell-fate-decisions/' | relative_url }})
 
 ### Selected Publications
 

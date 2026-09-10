@@ -9,6 +9,8 @@ featured: true
 
 Single-cell transcriptomics (scRNA-seq) records substantial cell-to-cell variability, but a single snapshot measurement provides only a partial view of the dynamic processes that generated it. This project uses time-resolved single-cell RNA sequencing to ask what that variability can reveal about transcriptional regulation.
 
+`single-cell transcriptomics` · `Bayesian inference` · `stochastic modelling` · `gene regulation`
+
 ## The question
 
 Can covariation patterns in single-cell measurements identify the mechanisms that control transcription dynamics? More specifically, can they distinguish how transcriptional bursting and mRNA degradation change across the cell cycle at transcriptome-wide scale?

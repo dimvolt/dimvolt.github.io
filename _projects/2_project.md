@@ -1,81 +1,28 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Learning latent regulatory dynamics of cell fate decisions
+description: A generative modelling framework for learning how gene regulatory networks transform external signals into developmental cell fate outcomes.
+permalink: /research/latent-regulatory-dynamics-of-cell-fate-decisions/
 importance: 2
-category: work
-giscus_comments: true
+featured: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+_Ongoing postdoctoral research · Work in progress_
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+`generative ML` · `representation learning` · `latent dynamical systems` · `single-cell transcriptomics` · `perturbations`
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## The question
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+How do extracellular signalling environments shape the regulatory programmes that guide cells towards distinct developmental fates? The aim is to learn a compact, interpretable account of this transformation: from changing inputs, through regulatory dynamics, to observed cell state outcomes.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+## The opportunity
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Single-cell transcriptomics can now measure cellular populations across multiple signalling and perturbation contexts. Taken together, these measurements provide a rich view of how developmental trajectories change with their environment. They also pose a difficult modelling problem: each condition is high-dimensional and heterogeneous, while the underlying regulatory processes evolve over time and are only observed indirectly.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## The modelling approach
 
-{% raw %}
+This project develops a generative latent variable model with continuous-time dynamics. The model is trained jointly across multiple signalling conditions to connect external inputs with latent regulatory processes and gene expression observations. It learns interpretable gene modules while incorporating biologically motivated structural constraints, balancing expressive representation learning with a model whose components can be related back to regulatory programmes.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Current direction
 
-{% endraw %}
+The work is currently focused on developing and evaluating the framework across observed and held-out signalling conditions. The broader goal is to determine when a learned representation of regulatory dynamics can provide a useful, interpretable basis for comparing developmental responses across environments.
