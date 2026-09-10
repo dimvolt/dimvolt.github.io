@@ -9,7 +9,7 @@ featured: true
 
 Single-cell transcriptomics (scRNA-seq) records substantial cell-to-cell variability, but a single snapshot measurement provides only a partial view of the dynamic processes that generated it. This project uses time-resolved single-cell RNA sequencing to ask what that variability can reveal about transcriptional regulation.
 
-`single-cell transcriptomics` · `Bayesian inference` · `stochastic modelling` · `gene regulation`
+<span class="research-keyword">single-cell transcriptomics</span> · <span class="research-keyword">Bayesian inference</span> · <span class="research-keyword">stochastic modelling</span> · <span class="research-keyword">gene regulation</span>
 
 ## The question
 

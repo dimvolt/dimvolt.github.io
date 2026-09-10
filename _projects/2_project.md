@@ -9,7 +9,7 @@ featured: true
 
 _Ongoing postdoctoral research · Work in progress_
 
-`generative ML` · `representation learning` · `latent dynamical systems` · `single-cell transcriptomics` · `perturbations`
+<span class="research-keyword">generative ML</span> · <span class="research-keyword">representation learning</span> · <span class="research-keyword">latent dynamical systems</span> · <span class="research-keyword">single-cell transcriptomics</span> · <span class="research-keyword">perturbations</span>
 
 ## The question
 
