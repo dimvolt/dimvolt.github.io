@@ -25,4 +25,12 @@ horizontal: false
       {% include projects.liquid %}
     {% endfor %}
   </div>
+
+  <h2 class="category">Interdisciplinary Biological Research</h2>
+  {% assign collaborative_projects = site.projects | where: "research_section", "collaborative" | sort: "importance" %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for project in collaborative_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
 </div>
