@@ -26,7 +26,7 @@ Computational biologist and machine learning scientist developing predictive mod
 Generative modelling · Representation and self-supervised learning · Dynamical models and neural ODEs/SDEs · Bayesian inference · Causal and mechanistic modelling · Stochastic processes · Probabilistic modelling
 
 **Computational &amp; Single-Cell Biology**<br>
-Single-cell transcriptomics (scRNA-seq) · Perturbational and interventional data (Perturb-seq, signalling screens) · Gene regulatory networks · Cellular dynamics and trajectory inference · Developmental biology · Lineage tracing · Metabolic RNA labelling 
+Single-cell transcriptomics (scRNA-seq) · Perturbational and interventional data (Perturb-seq, signalling screens) · Gene regulatory networks · Cellular dynamics and trajectory inference · Developmental biology · Lineage tracing · Metabolic RNA labelling
 
 **Programming &amp; Computing**<br>
 Python (PyTorch, NumPy, SciPy, Scikit-learn, Scanpy, scVI) · Julia · R · Mathematica · Distributed and multi-GPU training · Large-scale simulation · SLURM/HPC · Linux/Bash · Git/GitHub
@@ -41,7 +41,7 @@ Python (PyTorch, NumPy, SciPy, Scikit-learn, Scanpy, scVI) · Julia · R · Math
 - Developed a probabilistic framework for inferring hierarchical lineage relationships from single-cell genomic barcoding data, contributing to an interdisciplinary study of neural tube developmental dynamics (*Nature*, accepted).
 - Led development of a stochastic modelling and inference framework for gene regulatory mechanisms from time-resolved single-cell transcriptomics, integrating metabolic RNA labelling and developmental time information. [Related research →]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
 - Built and optimised scalable ML and numerical simulation pipelines on HPC infrastructure, including distributed multi-GPU model training.
-- Exploring predictive representation-learning approaches for cellular perturbation response from high-dimensional interventional single-cell data.[Related research →]({{ '/research/learning-cellular-responses-to-perturbation/' | relative_url }})
+- Exploring predictive representation-learning approaches for cellular perturbation response from high-dimensional interventional single-cell data. [Related research →]({{ '/research/learning-cellular-responses-to-perturbation/' | relative_url }})
 
 
 ### Postdoctoral Research Associate · Imperial College London
