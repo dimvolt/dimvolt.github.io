@@ -10,14 +10,14 @@ $red-color-dark: #b71c1c !default;
 $orange-color: #f29105 !default;
 $blue-color: #0076df !default;
 $blue-color-dark: #00369f !default;
-$cyan-color: #4682b4 !default;
+$cyan-color: #3b6b80 !default;
 $light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
 $green-color: #00ab37 !default;
 $green-color-lime: #b7d12a !default;
 $green-color-dark: #009f06 !default;
 $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
-$purple-color: #4682b4 !default;
+$purple-color: #3b6b80 !default;
 $light-purple-color: color.adjust($purple-color, $lightness: 25%);
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
@@ -52,8 +52,8 @@ $max-content-width: 930px !default;
 // Use the same accent across the light and dark theme variants.
 :root,
 html[data-theme="dark"] {
-  --global-theme-color: #4682b4 !important;
-  --global-hover-color: #36648b !important;
+  --global-theme-color: #3b6b80 !important;
+  --global-hover-color: #2e5566 !important;
 }
 
 // Typography and navigation
@@ -90,21 +90,21 @@ b {
 
 a,
 table.table a {
-  color: #4682b4 !important;
+  color: #3b6b80 !important;
 }
 
 a:hover,
 a:focus,
 table.table a:hover,
 table.table a:focus {
-  color: #36648b !important;
+  color: #2e5566 !important;
 }
 
 .navbar .nav-link,
 .nav-tabs .nav-link,
 .nav-pills .nav-link,
 .tab > * > a {
-  color: #4682b4 !important;
+  color: #3b6b80 !important;
 }
 
 .navbar .nav-link:hover,
@@ -117,12 +117,12 @@ table.table a:focus {
 .nav-pills .nav-link.active,
 .tab > * > a:hover,
 .tab > .active > a {
-  color: #36648b !important;
+  color: #2e5566 !important;
 }
 
 a:focus-visible,
 .nav-link:focus-visible {
-  outline: 2px solid #4682b4;
+  outline: 2px solid #3b6b80;
   outline-offset: 3px;
 }
 
