@@ -4,10 +4,8 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-description: Curriculum vitae for Dimitris Volteras.
+description: 
 ---
-
-<p class="lead">Computational Biologist &amp; Machine Learning Scientist</p>
 
 <p>
   <a class="btn btn-primary" href="{{ '/assets/pdf/my_cv.pdf' | relative_url }}" download>
@@ -24,10 +22,10 @@ Computational biologist and machine learning scientist developing mathematically
 ## Core Expertise
 
 **Machine Learning &amp; Mathematical Modelling**<br>
-Generative modelling · Representation and self-supervised learning · Variational methods · Dynamical models and neural ODEs/SDEs · Bayesian inference · Causal and mechanistic modelling · Stochastic processes · Probabilistic modelling
+Generative modelling · Representation and self-supervised learning · Dynamical models and neural ODEs/SDEs · Bayesian inference · Causal and mechanistic modelling · Stochastic processes · Probabilistic modelling
 
 **Computational &amp; Single-Cell Biology**<br>
-Single-cell transcriptomics (scRNA-seq) · Perturbational and interventional data (Perturb-seq, signalling screens) · Developmental biology · Lineage tracing · Metabolic RNA labelling · Gene regulatory networks · Cellular dynamics and trajectory inference
+Single-cell transcriptomics (scRNA-seq) · Perturbational and interventional data (Perturb-seq, signalling screens) · Gene regulatory networks · Cellular dynamics and trajectory inference · Developmental biology · Lineage tracing · Metabolic RNA labelling 
 
 **Programming &amp; Computing**<br>
 Python (PyTorch, NumPy, SciPy, Scikit-learn, Scanpy, scVI) · Julia · R · Mathematica · Distributed and multi-GPU training · Large-scale simulation · SLURM/HPC · Linux/Bash · Git/GitHub
@@ -38,24 +36,25 @@ Python (PyTorch, NumPy, SciPy, Scikit-learn, Scanpy, scVI) · Julia · R · Math
 
 *Developmental Dynamics Laboratory — Dr James Briscoe · Mar 2025 – Present*
 
-- Developed a mechanistically informed generative model of cell-state dynamics, combining an interpretable latent-variable model with dynamical constraints to infer regulatory structure from large-scale, multi-condition single-cell signalling perturbation data. [Related research →]({{ '/research/latent-regulatory-dynamics-of-cell-fate-decisions/' | relative_url }})
-- Developed a probabilistic framework for inferring hierarchical lineage relationships from single-cell genomic barcoding data, contributing to a multidisciplinary study of neural tube developmental dynamics (*Nature*, accepted).
-- Led development of a stochastic modelling framework to infer gene-regulatory mechanisms from time-resolved single-cell transcriptomic data integrating metabolic RNA labelling and developmental-stage information. [Related research →]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
-- Developing a self-supervised framework for modelling high-dimensional interventional single-cell data, inspired by joint-embedding predictive architectures. [Related research →]({{ '/research/learning-cellular-responses-to-perturbation/' | relative_url }})
-- Built and optimised scalable ML and numerical-simulation pipelines on HPC infrastructure, including distributed multi-GPU model training.
+- Developed a generative latent-variable model with continuous-time dynamics to learn how gene regulatory networks transform signalling inputs into cell fate outcomes from large-scale, multi-condition single-cell signalling perturbation data. [Related research →]({{ '/research/latent-regulatory-dynamics-of-cell-fate-decisions/' | relative_url }})
+- Developed a probabilistic framework for inferring hierarchical lineage relationships from single-cell genomic barcoding data, contributing to an interdisciplinary study of neural tube developmental dynamics (*Nature*, accepted).
+- Led development of a stochastic modelling and inference framework for gene regulatory mechanisms from time-resolved single-cell transcriptomics, integrating metabolic RNA labelling and developmental time information. [Related research →]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
+- Built and optimised scalable ML and numerical simulation pipelines on HPC infrastructure, including distributed multi-GPU model training.
+- Exploring predictive representation-learning approaches for cellular perturbation response from high-dimensional interventional single-cell data.[Related research →]({{ '/research/learning-cellular-responses-to-perturbation/' | relative_url }})
+
 
 ### Postdoctoral Research Associate · Imperial College London
 
 *Computational Molecular Systems Biology Group — Dr Vahid Shahrezaei · Sep 2024 – Feb 2025*
 
-- Developed a stochastic agent-based modelling framework to investigate the spatiotemporal dynamics of tumour progression. [Related research →]({{ '/research/modelling-spatial-dynamics-of-glioblastoma-progression/' | relative_url }})
-- Contributed computational modelling and quantitative analysis to a multidisciplinary study identifying axonal injury as a targetable driver of glioblastoma progression (*Nature*, 2025).
+- DDeveloped a stochastic agent-based model to investigate the spatiotemporal dynamics of tumour progression. [Related research →]({{ '/research/modelling-spatial-dynamics-of-glioblastoma-progression/' | relative_url }})
+- Contributed computational modelling and quantitative analysis to an interdisciplinary study identifying axonal injury as a targetable driver of glioblastoma progression (*Nature*, 2025).
 
 ### PhD Researcher in Computational Biology · Imperial College London
 
 *Computational Molecular Systems Biology &amp; Single-Cell Dynamics Groups — Dr Vahid Shahrezaei &amp; Dr Philipp Thomas · Oct 2020 – Sep 2024*
 
-- Developed stochastic and probabilistic methods to infer gene regulatory mechanisms from high-dimensional single-cell transcriptomic data.
+- Developed stochastic and probabilistic methods to infer gene regulatory mechanisms from high-dimensional single-cell transcriptomics.
 - Developed a Bayesian inference framework for genome-wide transcriptional dynamics from time-resolved single-cell RNA sequencing, published in *Cell Systems*. [Related research →]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
 - Investigated how cell-to-cell variability and dynamical correlations can reveal modes of gene regulation from single-cell measurements.
 
