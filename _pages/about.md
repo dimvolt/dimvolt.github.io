@@ -57,6 +57,8 @@ A generative modelling framework for learning how gene regulatory networks trans
 
 [Read more →]({{ '/research/latent-regulatory-dynamics-of-cell-fate-decisions/' | relative_url }})
 
+[Explore more research →]({{ '/research/' | relative_url }})
+
 #### Selected Publications
 
 **Global transcription regulation revealed from dynamical correlations in time-resolved single-cell RNA sequencing**<br>
