@@ -17,7 +17,8 @@ London, UK · <a href="mailto:volterasd@gmail.com">volterasd@gmail.com</a> · <a
 
 ## Profile
 
-Computational biologist and machine learning scientist developing mathematically principled models of complex biological systems. My research combines mechanistic and probabilistic modelling with modern machine learning to study cellular dynamics, gene regulation and lineage relationships from high-dimensional single-cell and perturbational data. Experienced in developing generative, dynamical and Bayesian modelling frameworks from first principles, with strong foundations in stochastic processes, causal inference and representation learning. I work closely with experimental scientists to translate biological questions into computational models and hypothesis-driven research programmes.
+Computational biologist and machine learning scientist developing predictive models of complex cellular systems from high-dimensional biological data. My research lies at the intersection of modern machine learning and computational biology, spanning generative and representation learning, single-cell biology, dynamical modelling, and probabilistic approaches. I am particularly interested in cellular dynamics, gene regulation and perturbation response, and in how biological structure and experimental design can provide useful inductive biases for ML models. I work closely with experimental scientists to translate biological questions into computational models and testable hypotheses.
+
 
 ## Core Expertise
 
