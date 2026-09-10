@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learning gene regulation from cellular variability
-description: Inferring genome-wide transcriptional dynamics from time-resolved single-cell transcriptomics.
+description: Inferring genome-wide transcriptional dynamics from time-resolved single-cell transcriptomics with stochastic modelling and scalable Bayesian inference.
 permalink: /research/gene-regulation-from-cellular-variability/
 importance: 1
 featured: true
