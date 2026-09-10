@@ -6,7 +6,7 @@ nav: false
 nav_order: 3
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false
   more_info: >
     <p>London, UK</p>
