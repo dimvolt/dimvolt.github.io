@@ -10,7 +10,7 @@ profile:
   image_circular: false
   more_info: >
     <p>London, UK</p>
-    <p><a href="/assets/pdf/example_pdf.pdf" target="_blank" class="btn btn-sm z-depth-0">Download CV (PDF)</a></p>
+    <p><a href="{{ '/assets/pdf/Dimitris_Volteras_Computational_Biology_ML_CV.pdf' | relative_url }}" download class="btn btn-sm z-depth-0">Download CV (PDF)</a></p>
 selected_papers: false
 social: false
 announcements:
