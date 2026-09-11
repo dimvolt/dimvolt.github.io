@@ -58,7 +58,7 @@ _Computational Molecular Systems Biology &amp; Single-Cell Dynamics Groups — D
 - Developed a Bayesian inference framework for genome-wide transcriptional dynamics from time-resolved single-cell RNA sequencing, published in _Cell Systems_. [Related research →]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
 - Investigated how cell-to-cell variability and dynamical correlations can reveal modes of gene regulation from single-cell measurements.
 - Co-supervised MSc and BSc research projects on gene regulatory network inference from single-cell transcriptomics.
-• Taught and assessed undergraduate and MSc courses in probability, data science, applied mathematics and systems biology.
+- Taught and assessed undergraduate and MSc courses in probability, data science, applied mathematics and systems biology.
 
 ## Education
 
@@ -82,6 +82,7 @@ Focus: probability theory, stochastic analysis, Bayesian inference, ODEs and PDE
 - Volteras, D., Thomas, P., &amp; Shahrezaei, V. Inferring causal gene regulatory relationships from time-resolved single-cell transcriptomics. Manuscript in preparation.
 
 ## Selected Conference Talks
+
 - Invited talk - European Conference on Mathematical & Theoretical Biology, Graz (2026)
 - Invited talk - Data-Driven Modelling Workshop, Imperial College London (2026)
 - Contributed talk - Causality in Biology & AI Symposium, Barcelona (2025)
