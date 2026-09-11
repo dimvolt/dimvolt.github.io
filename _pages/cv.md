@@ -63,10 +63,10 @@ _Computational Molecular Systems Biology &amp; Single-Cell Dynamics Groups — D
 ## Education
 
 **PhD in Applied Mathematics &amp; Computational Biology** · Imperial College London · 2020 – 2024<br>
-Thesis: _Data-driven stochastic modelling of gene regulation_; Roth PhD Scholarship, Department of Mathematics.
+Thesis: _Data-driven stochastic modelling of gene regulation_ - Roth PhD Scholarship, Department of Mathematics.
 
 **MSc in Applied Mathematics** · Imperial College London · 2019 – 2020<br>
-Thesis: _Multiscale approximations of stochastic reaction networks_; Focus: mathematical biology, machine learning, stochastic differential equations and Markov processes.
+Thesis: _Multiscale approximations of stochastic reaction networks_ - Focus: mathematical biology, machine learning, stochastic differential equations and Markov processes.
 
 **BSc in Mathematics** · National and Kapodistrian University of Athens · 2014 – 2018<br>
 Focus: probability theory, stochastic analysis, Bayesian inference, ODEs and PDEs, and linear algebra.
