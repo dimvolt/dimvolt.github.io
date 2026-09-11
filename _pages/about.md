@@ -32,15 +32,19 @@ More broadly, I aim to develop predictive and interpretable models of cellular s
 #### Research Themes
 
 **Generative Modelling & Representation Learning**
+
 Learning representations and predictive models of high-dimensional biological systems.
 
 **Cellular Dynamics & Perturbations**
+
 Understanding how cellular states evolve over time in response to genetic and environmental interventions.
 
 **Stochastic & Probabilistic Modelling**
+
 Using stochastic models and probabilistic inference to extract regulatory information from noisy biological measurements.
 
 **Biology-Informed Machine Learning**
+
 Building ML architectures that exploit biological knowledge, experimental constraints and inductive biases.
 
 #### Selected Research
