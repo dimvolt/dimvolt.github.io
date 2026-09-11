@@ -25,7 +25,6 @@ The work develops a stochastic gene expression model with cell size- and cell cy
 
 <figure class="research-figure">
   <img src="{{ '/assets/images/ABC_scheme.png' | relative_url }}" alt="Schematic of approximate Bayesian computation rejection sampling: candidate parameter sets generate time-resolved single-cell transcriptomic summaries, which are compared to identify the kinetic rate modulated during the cell cycle." loading="lazy" decoding="async">
-  <figcaption>Schematic of the approximate Bayesian computation model-selection framework, using time-resolved single-cell transcriptomic summaries to distinguish candidate regulatory mechanisms.</figcaption>
 </figure>
 
 ## What we found
