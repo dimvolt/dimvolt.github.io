@@ -23,6 +23,10 @@ Single-cell transcriptomics can now measure cellular populations across multiple
 
 This project develops a generative latent variable model with continuous-time dynamics. The model is trained jointly across multiple signalling conditions to connect external inputs with latent regulatory processes and gene expression observations. It learns interpretable gene modules while incorporating biologically motivated structural constraints, balancing expressive representation learning with a model whose components can be related back to regulatory programmes.
 
+<figure class="research-figure" style="margin: 2rem 0;">
+  <img src="{{ '/assets/images/latent_module_model.png' | relative_url }}" alt="Conceptual schematic of a latent dynamical model: genes are encoded into regulatory modules, external signalling inputs influence module dynamics, and module activity is decoded back to gene expression." loading="lazy" decoding="async" style="width: 100%; height: auto;">
+</figure>
+
 ## Current direction
 
 The work is currently focused on developing and evaluating the framework across observed and held-out signalling conditions. The broader goal is to determine when a learned representation of regulatory dynamics can provide a useful, interpretable basis for comparing developmental responses across environments.
