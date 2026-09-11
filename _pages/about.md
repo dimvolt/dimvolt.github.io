@@ -29,7 +29,6 @@ During my PhD, I developed stochastic models and Bayesian inference approaches t
 
 More broadly, I aim to develop predictive and interpretable models of cellular systems that help us understand and predict biological interventions, and ultimately support therapeutic discovery.
 
-
 #### Research Themes
 
 **Generative Modelling & Representation Learning**
