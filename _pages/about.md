@@ -27,7 +27,8 @@ I develop computational methods that combine flexible ML architectures with biol
 
 During my PhD, I developed stochastic models and Bayesian inference approaches to study how cell-to-cell variability can reveal hidden properties of gene regulation from single-cell transcriptomics. My current research extends these questions and approaches towards generative modelling and representation learning for cellular dynamics, gene regulatory networks, and perturbation responses. 
 
-More broadly, I am interested in developing predictive and interpretable models of cellular systems, and in how machine learning and mathematical modelling can help us understand biological interventions and ultimately contribute to therapeutic discovery.
+More broadly, I aim to develop predictive and interpretable models of cellular systems that help us understand and predict biological interventions, and ultimately support therapeutic discovery.
+
 
 #### Research Themes
 
