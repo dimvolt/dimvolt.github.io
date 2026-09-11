@@ -76,7 +76,7 @@ Focus: probability theory, stochastic analysis, Bayesian inference, ODEs and PDE
 
 ## Selected Manuscript in Preparation
 
-Volteras, D., Thomas, P., &amp; Shahrezaei, V. _Inferring causal gene regulatory relationships from time-resolved single-cell transcriptomics with mechanistic machine learning._ Manuscript in preparation.
+- Volteras, D., Thomas, P., &amp; Shahrezaei, V. Inferring causal gene regulatory relationships from time-resolved single-cell transcriptomics. Manuscript in preparation.
 
 ## Selected Awards
 
