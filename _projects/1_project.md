@@ -23,6 +23,11 @@ Observed mRNA count distributions arise from both biological stochasticity with 
 
 The work develops a stochastic gene expression model with cell size- and cell cycle-dependent kinetic rates in growing and dividing cells. It uses temporal information supplied by metabolic labelling protocols and cell cycle reporters, alongside a parallel, scalable approximate Bayesian computation method that corrects for technical variation. Bayesian model selection is then used to compare candidate mechanisms of regulation.
 
+<figure class="research-figure">
+  <img src="{{ '/assets/images/ABC_scheme.png' | relative_url }}" alt="Schematic of approximate Bayesian computation rejection sampling: candidate parameter sets generate time-resolved single-cell transcriptomic summaries, which are compared to identify the kinetic rate modulated during the cell cycle." loading="lazy" decoding="async">
+  <figcaption>Schematic of the approximate Bayesian computation model-selection framework, using time-resolved single-cell transcriptomic summaries to distinguish candidate regulatory mechanisms.</figcaption>
+</figure>
+
 ## What we found
 
 The analysis quantifies burst frequency, burst size, and mRNA degradation rate across the cell cycle at transcriptome-wide scale. It identifies evidence for transcription rates that scale with cell size and reveals waves of transcriptional regulation across the cell cycle-dependent transcriptome.
