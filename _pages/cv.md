@@ -41,6 +41,7 @@ _Developmental Dynamics Laboratory — Dr James Briscoe · Mar 2025 – Present_
 - Led development of a stochastic modelling and inference framework for gene regulatory mechanisms from time-resolved single-cell transcriptomics, integrating metabolic RNA labelling and developmental time information. [Related research →]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
 - Built and optimised scalable ML and numerical simulation pipelines on HPC infrastructure, including distributed multi-GPU model training.
 - Exploring predictive representation-learning approaches for cellular perturbation response from high-dimensional interventional single-cell data. [Related research →]({{ '/research/learning-cellular-responses-to-perturbation/' | relative_url }})
+- Supervised a visiting PhD student on stochastic modelling and inference of gene regulation from single-cell transcriptomics data.
 
 ### Postdoctoral Research Associate · Imperial College London
 
@@ -56,6 +57,8 @@ _Computational Molecular Systems Biology &amp; Single-Cell Dynamics Groups — D
 - Developed stochastic and probabilistic methods to infer gene regulatory mechanisms from high-dimensional single-cell transcriptomics.
 - Developed a Bayesian inference framework for genome-wide transcriptional dynamics from time-resolved single-cell RNA sequencing, published in _Cell Systems_. [Related research →]({{ '/research/gene-regulation-from-cellular-variability/' | relative_url }})
 - Investigated how cell-to-cell variability and dynamical correlations can reveal modes of gene regulation from single-cell measurements.
+- Co-supervised MSc and BSc research projects on gene regulatory network inference from single-cell transcriptomics.
+• Taught and assessed undergraduate and MSc courses in probability, data science, applied mathematics and systems biology.
 
 ## Education
 
@@ -74,9 +77,17 @@ Focus: probability theory, stochastic analysis, Bayesian inference, ODEs and PDE
 - Boezio, G. L. M., Depotter, J. R. L., Frith, T. J. R., Radley, A., Volteras, D., Strohbuecker, S., et al. (2026). Hierarchical lineage architecture of human and avian spinal cord revealed by single-cell genomic barcoding. _Nature_. Accepted.
 - Clements, M., Tang, W., Baronik, Z. F., Ragdale, S., Oria, R., Volteras, D., White, I. J., et al. (2025). [Axonal injury is a targetable driver of glioblastoma progression](https://doi.org/10.1038/s41586-025-09411-2). _Nature_.
 
-## Selected Manuscript in Preparation
+## Selected Manuscripts in Preparation
 
 - Volteras, D., Thomas, P., &amp; Shahrezaei, V. Inferring causal gene regulatory relationships from time-resolved single-cell transcriptomics. Manuscript in preparation.
+
+## Selected Conference Talks
+- Invited talk - European Conference on Mathematical & Theoretical Biology, Graz (2026)
+- Invited talk - Data-Driven Modelling Workshop, Imperial College London (2026)
+- Contributed talk - Causality in Biology & AI Symposium, Barcelona (2025)
+- Contributed talk - AI x BIO, Wellcome Genome Campus, Cambridge (2025)
+- Contributed talk - Single Cell Biology, Wellcome Genome Campus, Cambridge (2024)
+- Contributed talk - Single Cell Analyses, Cold Spring Harbor Laboratory, New York (2023)
 
 ## Selected Awards
 
