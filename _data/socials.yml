@@ -1,10 +1,8 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: volterasd@gmail.com # your email address
-github_user: dimvolt
-linkedin_username: dvolteras
-inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: false # set to false or comment out to hide RSS icon
+github_username: dimvolt # your GitHub user name
 scholar_userid: 8a1N-RUAAAAJ # your Google Scholar ID
+linkedin_username: dvolteras # your LinkedIn user name
+rss_icon: false # set to false or comment out to hide RSS icon
